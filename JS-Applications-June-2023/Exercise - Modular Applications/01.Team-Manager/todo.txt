@@ -1,0 +1,15 @@
+TODO:
+
+- examine project requirements
+- examine project template
+- create base architecture (files + folders)
+  - app.js / api / middlewares / views / utils / ...
+- create static page handlers => templates
+- API module
+- implement page logic
+  - API calls
+  - view
+  - handler (controller)
+
+
+>> pagination
